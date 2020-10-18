@@ -195,7 +195,6 @@ header{
   transform: rotate(323deg) skewY(-54deg);
   background-color: #fff;
 }
-
 #menuActive {
   position: fixed;
   top: -99999px;
