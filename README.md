@@ -1,0 +1,1 @@
+Este sistema está diseñado para usarse únicamente en dispositivos móviles dentro de un navegador.
